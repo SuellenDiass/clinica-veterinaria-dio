@@ -1,4 +1,14 @@
-# Trilha HTML - Dio.me
+
+<p align="center">
+    <img width="250" src="https://user-images.githubusercontent.com/102911341/202200640-ec3dc2ce-4aa4-4bdd-b30c-2662d9db5d00.png">
+</p>
+
+
+
+<h2 align="center">
+    Trilha HTML - Dio.me
+</h2>
+
 ## Módulo 02 - HTML I - Conceitos Básicos
 
 Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
